@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background:white ;
+    background-image: url("https://cdn.shopify.com/s/files/1/1772/0301/products/2_3dbebf65-8b24-4450-b48d-cd1941fe4f50_1024x1024.png?v=1575939078");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1 {
+    background: black;
+    color: whitesmoke;
+ 
+}
+
+
+img {
+
+    width: 400px;  
+    border-radius: 130px;
+    
+
+}
+
+#thirdDiv {
+    
+    margin: 5px auto;
+    width: 500px;
+    height: 600px;
+    background: rgba(201, 198, 198, 0.226);
+    padding: 50px;
+    border: 2px  white;
+    border-radius: 80px;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    color: white;
+    background-color: black;
+    
+}
+
+
+
+
+
+.divClass { 
+  display: flex;
+  flex-direction: column;
+  align-items: center;    
+}
+
+ul {
+    padding-left: 0;
+    margin: 0px;
+}
+
+footer{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+a .social_redes{
+    width: 80%;
+    padding-left: 3px;
+    
+
+}
+
+ h3, h4{
+    color: whitesmoke;
+    background-color: black;
+}
+
+.divClass a, li a{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: black;
+    color: whitesmoke;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+.divClass a:hover, li a:hover{
+    background-color: purple;
+}
+
+li{
+    list-style: none;
+}
+
+
+    
+    
+
+
+
