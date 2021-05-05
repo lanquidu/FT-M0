@@ -1,0 +1,22 @@
+-Variable: El un valor que se almacena para luego ser usado en 
+determinado momento. Este valor tiene cualquier caracteristica como
+números, objetos, nombres, etc.
+
+-Strings: Son textos que se identifican con comillas.
+
+-Funciones: Es similar a un procedimiento, un conjunto
+de instrucciones que realiza una tarea o calcula
+un valor. Son reutilizables en el código.
+
+-Argumentos : Son las variables que necesitan las funciones para ser llamadas.
+Son variables locales.
+
+-Return : Finaliza la ejecución de una función. 
+Especifica un valor para ser devuelto.
+
+-Declaraciones "if" : Controla el flujo de código, verifica si algo es verdadero
+devuelve true y continúa el ejecutandose el código, de lo contrario,
+devuelve false y para el avance en el código.
+
+-Valores Bolleanos : Son valores que devuelven solo si o no.
+true o false.
