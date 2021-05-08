@@ -1,0 +1,21 @@
+Definición:
+
+-FOR : Es un bucle, esto quiere decir que evalúa las expresionesuna y otra vez hasta devolver la que se esta
+buscando o se detiene despues de cierto tiempo.
+sintaxis:
+for (let i=0; i<10; i++) {}, donde:
+i declaración de una variable
+i<10 expresión condicional
+i++ incrementamos la variable.
+
+Operadores Lógicos:
+
+-&& : Significa "y" ("AND"), evalúa ambas expresiones, devolverá verdadero si ambas expresiones son true.
+Si uno o ambas expresiones son false este devolverá false.
+
+
+-|| : Significa "Ó" ("OR"), determina si una de las expresiones es true. devuelve true si una o ambas de las expresiones
+son verdaderas. Devuelve false si ambas de las expresiones son falsas.
+
+
+-! : Significa "NOT" ("NO"), devolverá el valor booleano opuesto de lo que se pasa.
