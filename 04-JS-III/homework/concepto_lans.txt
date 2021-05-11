@@ -1,0 +1,12 @@
+Deficición.
+
+
+Arrays : Se les llaman tambien matrices o sarreglos. Es un objeto global, son objetos tipo lista, contienen múltiples
+valores almacenados en una lista.
+
+Estos objetos pueden almacenarse en variables y tratarse de la misma manera
+que cualquier otro valor, la diferencia es que podemos acceder individualmente a cada
+valor dentro de la lista. NOs sirve como ejemplo uan factura, donde se necesitan una serie de productos 
+con precios, se almacenan en una matriz, la podemos recorrer con un bucle, se pueden sumar e imprimir
+el total.
+
