@@ -1,0 +1,15 @@
+* `prototype`
+El prototipo es un objeto que está asociado con todas las funciones y objetos de forma predeterminada 
+en JavaScript, donde la propiedad del prototipo de la función es accesible y modificable.
+Los prototipos le permiten definir fácilmente métodos para todas las instancias de un objeto en particular. 
+Cabe destacar  que el método se aplica al prototipo, por lo que solo se almacena en la memoria una vez, pero cada 
+instancia del objeto tiene acceso a él.
+
+
+
+
+
+* _Constructors_ (de Clases)
+
+El método constructor es un metodo especial para crear e inicializar un objeto creado a partir de una clase.
+constructor([argumentos]) { ... }
