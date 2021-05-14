@@ -1,0 +1,34 @@
+- Objetos: Un objeto es una colección de propiedades, y una propiedad es una asociación entre 
+un nombre (o clave) y un valor. El valor de una propiedad puede ser una función, en cuyo caso la 
+propiedad es conocida como un método.
+
+
+
+- Propiedades: Una propiedad de un objeto se puede explicar como una variable adjunta al objeto. Las propiedades 
+de un objeto básicamente son lo mismo que las variables comunes de JavaScript, excepto por el nexo con el objeto. 
+Las propiedades de un objeto definen las características del objeto. Accedes a las propiedades de un objeto con una 
+simple notación de puntos:
+
+objectName.propertyName
+
+
+
+
+- Métodos: Un método es una función asociada a un objeto, es una propiedad de un objeto que es una función.
+
+
+
+- Bucle `for…in`: Es un bucle con el cual iteramos la clave / valor de un objeto. Entre paréntesis declararemos una variable, 
+la palabra clave in y el nombre del objeto. Esto recorrerá cada clave del objeto y finalizará cuando se hayan iterado todas las 
+claves. Podemos usar esta clave, y la notación de corchetes, en nuestro bucle for para acceder al valor asociado con esa clave.
+for (variable in objeto)
+  
+        variable :Asigna un nombre de propiedad diferente a la variable en cada iteración.
+        objeto: Objeto cuyas propiedades enumerables que no son símbolos se iteran.
+
+
+
+
+- Notación de puntos vs notación de corchetes: 
+Es la sintaxis que se usa para acceder a un objeto. Es muy similar a cómo se accede a los elementos en un arreglo: en lugar de usar un 
+número de índice para seleccionar un elemento, se esta utilizando el nombre asociado con el valor de cada miembro.
